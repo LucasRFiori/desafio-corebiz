@@ -13,3 +13,7 @@ Esse teste foi desenvolvido em React.js, a partir de um figma e documentação d
 Desde já agradeço a oportunidade e saibam que eu dei o meu melhor! 
 
 Abraços.
+
+Acesse o teste em: 
+
+https://desafio-corebiz-hpphggkem-lucasrfiori.vercel.app/
